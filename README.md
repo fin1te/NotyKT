@@ -6,6 +6,7 @@
 ![Build (API)](https://github.com/PatilShreyas/NotyKT/workflows/Build%20(API)/badge.svg)
 ![Build (Android)](https://github.com/PatilShreyas/NotyKT/workflows/Build%20(Android)/badge.svg)
 ![Release](https://github.com/PatilShreyas/NotyKT/workflows/Release/badge.svg)
+![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
 
 [![GitHub license](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Android Weekly](https://img.shields.io/badge/Android%20Weekly-%23473-2CA3E6.svg?style=flat)](http://androidweekly.net/issues/issue-473)
